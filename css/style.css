@@ -1,0 +1,17 @@
+/* Super product tabs CSS */
+p.buynow{
+	color: white;
+	background-color: orange;
+	padding: 5px 5px 5px 5px;
+	font-weight: bold;
+}
+
+p.buynow a{
+	color: white;
+}
+
+li.hid a{
+	background-color: silver;
+	color: white !important;
+	font-weight: bold;
+}
